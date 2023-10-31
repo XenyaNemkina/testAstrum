@@ -1,0 +1,11 @@
+.table__text {
+  width: 160px;
+  height: 62px;
+  color: #FFF;
+  text-align: center;
+  font-family: "Roboto";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

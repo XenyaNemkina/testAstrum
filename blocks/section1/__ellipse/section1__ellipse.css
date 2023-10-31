@@ -1,0 +1,12 @@
+.section1__ellipse {
+  width: 680px;
+  height: 686px;
+  border-radius: 686px;
+  border: 1px solid #000;
+  opacity: 0.2;
+  background-color: #416DF4;
+  mix-blend-mode: lighten;
+  filter: blur(100px);
+  margin-top: 213px;
+  margin-left: 225px;
+}

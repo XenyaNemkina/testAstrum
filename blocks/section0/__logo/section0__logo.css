@@ -1,0 +1,9 @@
+.section0__logo {
+  width: 376px;
+  height: 348px;
+  background-image: url(../../../images/logo.png);
+  background-position: center;
+  background-size: cover;
+  margin-top: -30px;
+  margin-left: 860px;
+}

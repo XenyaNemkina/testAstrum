@@ -1,0 +1,11 @@
+.table__head {
+  color: #671D00;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.55);
+  border: 1px solid rgba(103, 29, 0, 0.48);
+}

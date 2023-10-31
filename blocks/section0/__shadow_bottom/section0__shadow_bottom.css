@@ -1,0 +1,10 @@
+.section0__shadow_bottom {
+  height: 380px;
+  width: 100%;
+  background-image: url(../../../images/Layer\ 157\ 3.png);
+  background-position: center;
+  background-size: cover;
+  mix-blend-mode: multiply;
+  position: absolute;
+  bottom: 0;
+}

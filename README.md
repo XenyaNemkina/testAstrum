@@ -6,4 +6,3 @@ section0.jpg и section1.jpg
 
 
 
-# testAstrum

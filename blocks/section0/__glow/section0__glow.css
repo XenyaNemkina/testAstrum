@@ -1,0 +1,11 @@
+.section0__glow {
+  width: 2006px;
+  height: 892px;
+  background-image: url(../../../images/glow\ 1.png);
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  bottom: 0;
+  mix-blend-mode: screen;
+  margin-left: 79px;
+}

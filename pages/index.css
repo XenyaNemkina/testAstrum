@@ -1,0 +1,45 @@
+/* normalize */
+@import url(../vendor/normalize.css);
+/* fonts */
+@import url(../vendor/fonts/fonts.css);
+/* page */
+@import url(../blocks/page/page.css);
+/* section0 */
+@import url(../blocks/section0/section0.css);
+@import url(../blocks/section0/__shadow/section0__shadow.css);
+@import url(../blocks/section0/__shadow_left/section0__shadow_left.css);
+@import url(../blocks/section0/__shadow_right/section0__shadow_right.css);
+@import url(../blocks/section0/__npc/section0__npc.css);
+@import url(../blocks/section0/__npc_woman/section0__npc_woman.css);
+@import url(../blocks/section0/__nps_man/section0__nps_man.css);
+@import url(../blocks/section0/__shadow_bottom/section0__shadow_bottom.css);
+@import url(../blocks/section0/__blueglow/section0__blueglow.css);
+@import url(../blocks/section0/__glow/section0__glow.css);
+@import url(../blocks/section0/__objects/section0__objects.css);
+@import url(../blocks/section0/__logo/section0__logo.css);
+@import url(../blocks/section0/__boxes/section0__boxes.css);
+@import url(../blocks/section0/__title/section0__title.css);
+@import url(../blocks/section0/__subtitle/section0__subtitle.css);
+/* section1 */ 
+@import url(../blocks/section1/section1.css);
+@import url(../blocks/section1/__blueglow/section1__blueglow.css);
+@import url(../blocks/section1/__objects/section1__objects.css);
+@import url(../blocks/section1/__dog/section1__dog.css);
+@import url(../blocks/section1/__ellipse/section1__ellipse.css);
+@import url(../blocks/section1/__vito/section1__vito.css);
+@import url(../blocks/section1/__table/section1__table.css);
+@import url(../blocks/section1/__title/section1__title.css);
+/* table */ 
+@import url(../blocks/section1/__description/section1__description.css);
+@import url(../blocks/section1/__table/__head/table__head.css);
+@import url(../blocks/section1/__table/__icon/table__icon.css);
+@import url(../blocks/section1/__table/__text/table__text.css);
+@import url(../blocks/section1/__table/__text/_main/table__text_main.css);
+@import url(../blocks/section1/__table/__set/table__set.css);
+@import url(../blocks/section1/__table/_body/section1__table_body.css);
+/* box */
+@import url(../blocks/section1/__box/section1__box.css);
+@import url(../blocks/section1/__box/__button/section1__box__button.css);
+@import url(../blocks/section1/__box/__decription/section1__box__decription.css);
+@import url(../blocks/section1/__box/__image/section1__box__image.css);
+@import url(../blocks/section1/__box/__price/section1__box__price.css);

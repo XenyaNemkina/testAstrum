@@ -1,0 +1,12 @@
+.section1 {
+    width: 1974px;
+    height: 1029px;
+    margin: 0 auto;
+    background-image: url(../../images/background\ wall.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+  }

@@ -1,0 +1,7 @@
+.section1__box__decription {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  margin-bottom: 59px;
+  margin-left: -139px;
+}

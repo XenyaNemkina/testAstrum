@@ -1,0 +1,10 @@
+.section0__shadow_left {
+  width: 462px;
+  height: 100%;
+  background-image: url(../../../images/Layer\ 157\ 1.png);
+  background-position: center;
+  background-size: cover;
+  mix-blend-mode: multiply;
+  border: none;
+  margin-left: -2px;
+}
